@@ -1,0 +1,8 @@
+langgraph
+langchain-google-genai
+langchain-core
+yfinance
+pandas
+pandas_ta
+python-dotenv
+termcolor
